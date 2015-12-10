@@ -1,5 +1,3 @@
-# CAD
-
 ===============================================================================================
 Universidad Nacional de Colombia -sede Bogotá-
 Electrónica Digital 1
